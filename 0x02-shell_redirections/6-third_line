@@ -1,9 +1,2 @@
 #!/bin/bash
-
-# Store the file name in a variable
-filename="iacta"
-
-# Use the 'head' command to retrieve the first three lines
-# and the 'tail' command to display only the third line
-head -n 3 $filename | tail -n 1
-
+head -n 3 icata | tail -n 1
